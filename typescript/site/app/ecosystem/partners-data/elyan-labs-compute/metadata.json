@@ -1,0 +1,7 @@
+{
+  "name": "Elyan Labs Compute",
+  "category": "Services/Endpoints",
+  "logoUrl": "/logos/elyan-labs-compute.png",
+  "description": "GPU compute marketplace for AI agents. V100 32GB, RTX 5070, POWER8 512GB RAM. LLM inference, vision, TTS, and video generation endpoints via x402 USDC micropayments on Base.",
+  "websiteUrl": "https://github.com/Scottcjn/elyan-compute-skill"
+}
